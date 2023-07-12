@@ -1,5 +1,3 @@
 // GitHub Interface
-GitHub Interface has made changes here
 
 // User Interface
-User decided to add something here
